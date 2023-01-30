@@ -1,1 +1,71 @@
-Main tags of html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>My name is Ayush </p>
+    <p>This is my first code</p>
+</body>
+</html>
+
+
+<html lang="en"> --> for language 
+
+<p> abcde </p>   --> for paragraph 
+<pre> html dose not recognise space and line change in a "p" tag but can recognise in pre tag </pre> 
+
+<!-- This is for notes  -->
+
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    
+    <b>Bold</b> <br>
+    <i>Italic</i><br>
+    <u>Underline</u><br>
+    <big>This will show big text</big> <br>
+    <small>This will show small text</small> <br>
+    
+    
+    // for links
+    
+<a href="https://music.youtube.com/watch?v=gWVcPzwIg-c&list=RDAMVMpPvtmBNHg0M">Wakhra SwagNi</a><br> --> full link that can opoen any site
+<a href="/page1.html">Click here for page 1</a> -- > locally created file , enter full location 
+
+<img src="  \Lord-Shri-Ram.jpeg" alt="Shree ram image in pcs"/> --> image in our pc
+<img src="_____" alt="Shree ram image in pcs"/> --> image link of any image on page
+
+alt is alternative when image is unable to process with any reason 
+<img src="_____" alt="Shree ram image in pcs" height="200"/> --> for hight of image 
+
+// select any of one hight or weidth of an image so that the orignal dimensions of image will not dissolve 
+
+<hr> --> for horizantal line 
+
+<sub>____</sub> ___ H2O
+<sup>____</sup> ----> 3^2=9
+
+
+
+Semantic tag 
+
+<header>
+<main>
+<footer>
+
+<section> -- for creating horizontal sections 
+<article>
+<aside>
+
+
+
+
+
+
