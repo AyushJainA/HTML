@@ -39,6 +39,10 @@
 <a href="https://music.youtube.com/watch?v=gWVcPzwIg-c&list=RDAMVMpPvtmBNHg0M">Wakhra SwagNi</a><br> --> full link that can opoen any site
 <a href="/page1.html">Click here for page 1</a> -- > locally created file , enter full location 
 
+<a href="__LINK__" target="_main"><img src="flipkart.png" height="100"/></a>  --> a image button 
+<a href="__LINK__" target="_main">Flipkart</a> --> for open the web in new tab 
+
+
 <img src="  \Lord-Shri-Ram.jpeg" alt="Shree ram image in pcs"/> --> image in our pc
 <img src="_____" alt="Shree ram image in pcs"/> --> image link of any image on page
 
@@ -64,8 +68,30 @@ Semantic tag
 <article> -- for ariticals
 <aside> -- for the ads which is not recognised by the seo.
 
+Block Element takes full width or take the full line 
+
+Div Tag -- <div></div>
+
+Inline element -- takes only req size
+<span> </span>
 
 
 
+#List in html
+
+1.ordereed list
+
+<ol>
+
+<li>Cat</li>
+<li>Dog</li>
+</ol>
+
+2.Unordered List
+
+<ul>
+<li>Cat</li>
+<li>Dogs</li>
+</ul>
 
 
