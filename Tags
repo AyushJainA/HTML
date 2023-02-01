@@ -61,8 +61,8 @@ Semantic tag
 <footer>
 
 <section> -- for creating horizontal sections 
-<article>
-<aside>
+<article> -- for ariticals
+<aside> -- for the ads which is not recognised by the seo.
 
 
 
