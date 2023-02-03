@@ -94,4 +94,31 @@ Inline element -- takes only req size
 <li>Dogs</li>
 </ul>
 
+#Table in html
+
+created by <table> </table>
+
+<TR> Used to Create table row
+<TB> Used to display data
+<TH> Used to display table heading 
+
+tr mai either heading aayegi ya data aayega 
+
+#to wrap table head and body 
+<thead></thead>
+
+to combine two column to have a single heading 
+
+<TH colspan="2--> number of column we want to merge "> ______ </TH>
+
+
+
+
+
+
+<tbody></tbody>
+
+
+
+<caption>
 
